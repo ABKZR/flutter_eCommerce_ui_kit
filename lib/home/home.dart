@@ -1,11 +1,10 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_ecommerce_ui_kit/blocks/block.dart';
 import 'package:flutter_ecommerce_ui_kit/home/new_arrivals/new_arrivals.dart';
 import 'package:provider/provider.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:flutter_ecommerce_ui_kit/blocks/categories_block.dart';
 import 'package:flutter_ecommerce_ui_kit/localizations.dart';
-
 import 'drawer.dart';
 import 'slider.dart';
 
